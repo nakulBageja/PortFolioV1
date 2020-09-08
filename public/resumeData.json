@@ -4,7 +4,7 @@
     "occupation": "ReactJs & Blockchain Developer",
     "description": "Upcoming Software Engineer",
     "image": "profile-pic.jpg",
-    "bio": "I'm an upcoming software engineer, currently in my final year of undergrad. I have experience in Mobile and Web Application development. I'm extensively following the growth of Blockchain Technology, which I believe is going to explode in near future. I have started freelancing to gain more experience in developing client products and upgrade my skills. My dream is to become a software engineer at Facebook.",
+    "bio": "I'm an upcoming software engineer, currently in my final year of undergrad. I have experience in Mobile and Web Application development. I'm extensively following the growth of Blockchain Technology, which I believe is going to explode in near future. I have started freelancing to gain more experience in developing client products and upgrade my skills. My dream is to develop softwares to make people life easy.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "bagejanakul10@gmail.com",
     "phone": "+91-7678-411-327",
@@ -107,10 +107,10 @@
         "url": "https://github.com/ketonium10/Flutter-Quiz-App"
       },
       {
-        "title": "Amazon Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Portfolio",
+        "category": "Potfolio built with ReactJS",
+        "image": "Portfolio.png",
+        "url": "https://github.com/ketonium10/PortFolioV1"
       }
     ]
   },
