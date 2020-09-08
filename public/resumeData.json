@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Nakul Bageja",
+    "occupation": "ReactJs & Blockchain Developer",
+    "description": "Upcoming Software Engineer",
+    "image": "profile-pic.jpg",
+    "bio": "I'm an upcoming software engineer, currently in my final year of undergrad. I have experience in Mobile and Web Application development. I'm extensively following the growth of Blockchain Technology, which I believe is going to explode in near future. I have started freelancing to gain more experience in developing client products and upgrade my skills. My dream is to become a software engineer at Facebook.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "bagejanakul10@gmail.com",
+    "phone": "+91-7678-411-327",
+    "address": {
+      "street": "West Delhi",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country":"India"
+        },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1dLMF8xFJJ1s8yWAER0aHSFm7_tP7cDes/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nakul-bageja-6b301515b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nakulbageja/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ketonium10",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Manipal University, Jaipur",
+        "degree": "Bachelors in Computer Science Engineering",
+        "graduated": "July 2017 - Present",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Celebal Technologies",
+        "title": "Associate Chat Bot Developer",
+        "designation":"Internship",
+        "years": "April 2020 - July 2020",
+        "description": "I developed Chat Bot for SAP's CRM and ERP system on Microsoft Teams and Google Chat using Microsoft Bot Framework and Hangout Chat API. "
+      },
+      {
+        "company": "GenX Info Technologies",
+        "title": "Mobile Application Developer",
+        "designation":"Internship",
+        "years": "June 2019 - August 2019",
+        "description": "I developed a Mobile application for Reimbursement using IONIC Framework."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Decentralized System For Medical Records",
+        "category": "Decentralized System For Medical Records with ReactJS, Ethereum and NodeJs",
+        "image": "dapp-react.jpeg",
+        "url": "https://github.com/ketonium10/Decentralized-System-For-Medical-Records"
+      },
+      {
+        "title": "Microsoft Chat Bot for Food Delivery and Job recruitment",
+        "category": "Microsoft Chat Bot made using Microsoft's Bot FrameWork V4",
+        "image": "microsoftChatBot.png",
+        "url": "https://github.com/ketonium10/Microsoft_bot"
+      },
+      {
+        "title": "Flutter Quiz App",
+        "category": "Flutter Quiz App with Flutter",
+        "image": "flutter.png",
+        "url": "https://github.com/ketonium10/Flutter-Quiz-App"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Nakul is knowledgeable, articulate and pleasure to work with. He had been a mentee who would put on his full efforts to the assigned task and tried to complete it in best possible way. He had been always eager to learn, play around with new tools and technologies and undoutably took care of his responsibilities very well. He is a definitely good to go person if you are looking for someone whom you can just assign something and forget about it as Nakul will definitely come back to you after it has accomplished it in best way possible.",
+        "user": "Rohit Sharma, Software Development Engineer - Chatbot & Web App (Nodejs, JAVA, SQL, Azure Cloud) @Celebal Technologies."
+      },
+      {
+        "text": "Nakul is one of the best among all the people I have ever worked with. As I remember Nakul was a very productive person, is hardworking,broad-minded, and forward-thinking individual. He is a very good person and a great employee with very strong problem-solving skills, Nakul is an asset to any company.",
+        "user": "Prit Kumari, IT professional with 5+ years’ experience."
+      }
+    ]
+  }
+}
