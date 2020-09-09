@@ -12,8 +12,8 @@
       "street": "West Delhi",
       "city": "New Delhi",
       "state": "Delhi",
-      "country":"India"
-        },
+      "country": "India"
+    },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "https://drive.google.com/file/d/1dLMF8xFJJ1s8yWAER0aHSFm7_tP7cDes/view?usp=sharing",
     "social": [
@@ -47,14 +47,14 @@
       {
         "company": "Celebal Technologies",
         "title": "Associate Chat Bot Developer",
-        "designation":"Internship",
+        "designation": "Internship",
         "years": "April 2020 - July 2020",
         "description": "I developed Chat Bot for SAP's CRM and ERP system on Microsoft Teams and Google Chat using Microsoft Bot Framework and Hangout Chat API. "
       },
       {
         "company": "GenX Info Technologies",
         "title": "Mobile Application Developer",
-        "designation":"Internship",
+        "designation": "Internship",
         "years": "June 2019 - August 2019",
         "description": "I developed a Mobile application for Reimbursement using IONIC Framework."
       }
@@ -117,12 +117,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Nakul is knowledgeable, articulate and pleasure to work with. He had been a mentee who would put on his full efforts to the assigned task and tried to complete it in best possible way. He had been always eager to learn, play around with new tools and technologies and undoutably took care of his responsibilities very well. He is a definitely good to go person if you are looking for someone whom you can just assign something and forget about it as Nakul will definitely come back to you after it has accomplished it in best way possible.",
+        "text": "Nakul is a knowledgeable, articulate and pleasure to work with person. He has been a mentee who would put all his full efforts to the assigned task and tries to complete it in the best way possible. He has always been eager to learn, play around with new tools and undoutably took care of his responsibilities very well. He is definitely good to go person if you are looking for someone who you can just assign something and forget about it, as Nakul will definitely come back to you after he has accomplished it in best way possible.",
         "user": "Rohit Sharma, Software Development Engineer - Chatbot & Web App (Nodejs, JAVA, SQL, Azure Cloud) @Celebal Technologies."
       },
       {
-        "text": "Nakul is one of the best among all the people I have ever worked with. As I remember Nakul was a very productive person, is hardworking,broad-minded, and forward-thinking individual. He is a very good person and a great employee with very strong problem-solving skills, Nakul is an asset to any company.",
-        "user": "Prit Kumari, IT professional with 5+ years’ experience."
+        "text": "Nakul is one of the best among all the people I have ever worked with. As I remember Nakul is a very productive, hardworking, broad-minded and forward-thinking individual. He is a very good person and a great employee with very strong problem-solving skills, Nakul is an asset to any company.",
+        "user": "Prit Kumari, IT professional with 5+ years’ experience @Celebal Technologies."
       }
     ]
   }
