@@ -754,9 +754,9 @@ call-to-action .button {
   content: none;
 }
 #testimonials blockquote p {
-  font-family: "Georgia", serif;
+  font-family: "Times New Roman";
   padding: 0;
-  font-size: 20px;
+  font-size: 25px;
   line-height: 48px;
   color: black;
 }
@@ -764,6 +764,7 @@ call-to-action .button {
   display: block;
   font-size: 14px;
   font-style: normal;
+  font-family: "Arial";
   line-height: 18px;
   color: rgba(0, 0, 0, 0.5);
 }
@@ -772,7 +773,7 @@ call-to-action .button {
 }
 #testimonials blockquote cite a,
 #testimonials blockquote cite a:visited {
-  color: #8b9798;
+  color: white;
   border: none;
 }
 
