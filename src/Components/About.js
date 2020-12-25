@@ -34,10 +34,6 @@ class About extends Component {
                 <h2>Contact Details</h2>
                 <p className="address">
                   <span>
-                    <a href={`tel:${phone}`}>{phone}</a>
-                  </span>
-                  <br />
-                  <span>
                     <a href={`mailto:${email}`}>{email}</a>
                   </span>
                 </p>

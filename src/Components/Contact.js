@@ -15,7 +15,7 @@ const Contact = ({ data }) => {
     setSubject("");
     setMessage("");
   };
-  const handleClick = e => {
+  const handleClick = (e) => {
     e.preventDefault();
     console.log(process.env.REACT_APP_USER_ID);
     let templateParams = {
@@ -24,7 +24,7 @@ const Contact = ({ data }) => {
       subject: subject,
       message_html: message,
       from_name: name,
-      to_name: "Nakul"
+      to_name: "Nakul",
     };
     //Service of emailJs added
     emailjs
@@ -35,12 +35,12 @@ const Contact = ({ data }) => {
         process.env.REACT_APP_USER_ID
       )
       .then(
-        function(response) {
+        function (response) {
           console.log("Success", response.status, response.text);
           alert("Thank you for your message, I will respond soon");
           resetForm();
         },
-        function(error) {
+        function (error) {
           console.log("Failed..", error);
           resetForm();
         }
@@ -76,7 +76,7 @@ const Contact = ({ data }) => {
                   size="35"
                   id="contactName"
                   name="contactName"
-                  onChange={e => setName(e.target.value)}
+                  onChange={(e) => setName(e.target.value)}
                 />
               </div>
 
@@ -91,7 +91,7 @@ const Contact = ({ data }) => {
                   size="35"
                   id="contactEmail"
                   name="contactEmail"
-                  onChange={e => setEmail(e.target.value)}
+                  onChange={(e) => setEmail(e.target.value)}
                 />
               </div>
 
@@ -104,7 +104,7 @@ const Contact = ({ data }) => {
                   size="35"
                   id="contactSubject"
                   name="contactSubject"
-                  onChange={e => setSubject(e.target.value)}
+                  onChange={(e) => setSubject(e.target.value)}
                 />
               </div>
 
@@ -114,7 +114,7 @@ const Contact = ({ data }) => {
                 </label>
                 <textarea
                   value={message}
-                  onChange={e => setMessage(e.target.value)}
+                  onChange={(e) => setMessage(e.target.value)}
                   cols="50"
                   rows="15"
                   id="contactMessage"
@@ -143,11 +143,7 @@ const Contact = ({ data }) => {
         <aside className="four columns footer-widgets">
           <div className="widget widget_contact">
             <h4>My Contact</h4>
-            <p className="address">
-              {data?.email}
-              <br />
-              <span>{data?.phone}</span>
-            </p>
+            <p className="address">{data?.email}</p>
           </div>
 
           <div className="widget widget_tweets"></div>
