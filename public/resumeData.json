@@ -106,8 +106,32 @@
         "url": "https://github.com/ketonium10/Flutter-Quiz-App"
       },
       {
+        "title": "Group Chat Application",
+        "category": "Group Chat Application using React Native and Firebase",
+        "image": "groupChatApp.png",
+        "url": "https://github.com/nakulBageja/group-chat"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "A clone of Amazon.com built with ReactJS",
+        "image": "amazon.png",
+        "url": "https://github.com/nakulBageja/amazon-clone"
+      },
+      {
+        "title": "Guess My Number",
+        "category": "Guess My Number with Expo",
+        "image": "guessGame.png",
+        "url": "https://github.com/nakulBageja/guess-game-react-native"
+      },
+      {
+        "title": "AirBnb Clone",
+        "category": "An AirBnb app replicated using React Native CLI",
+        "image": "airBnb.png",
+        "url": "https://github.com/nakulBageja/Airbnb-clone"
+      },
+      {
         "title": "Portfolio",
-        "category": "Potfolio built with ReactJS",
+        "category": "Portfolio built with ReactJS",
         "image": "Portfolio.png",
         "url": "https://github.com/ketonium10/PortFolioV1"
       }
